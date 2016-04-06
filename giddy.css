@@ -1,0 +1,40 @@
+.notcorrect, .correct {
+	height: 200px;
+	border: 5px solid gray;
+	 -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+	width: 180px;
+}
+.final {
+	font-size: 20px;
+	border: 5px solid #cc0099;
+	-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+	opacity: 0;
+}
+p {
+	width: 180px;
+	text-align: center;
+	font-family: 'Architects Daughter', cursive;
+}
+.jumbotron {
+	height: 250px;
+	padding-top: 10px;
+	padding-bottom: 0px;
+	font-family: 'Architects Daughter', cursive;
+	border: 5px solid #33cccc;
+}
+#camera, #monica, #llama, #dog, #wine {
+	opacity: 0;
+}
+.giddy {
+	height: 300px;
+	border: 5px solid gray;
+	 -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    margin: 30px;
+}
+#yes {
+	text-align: center;
+	font-family: 'Architects Daughter', cursive;
+}
